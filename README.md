@@ -1,3 +1,19 @@
+Sales-Analysis-Dashboard
+│
+├── dataset
+│   └── superstore_sales.csv
+│
+├── sql_queries
+│   └── sales_analysis.sql
+│
+├── powerbi_dashboard
+│   └── sales_dashboard.pbix
+│
+├── screenshots
+│   └── dashboard.png
+│
+└── README.md
+
 **Sales Analysis Dashboard**
 
 **Project Overview**
